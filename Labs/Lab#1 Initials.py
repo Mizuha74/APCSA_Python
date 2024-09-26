@@ -1,11 +1,14 @@
 def main ():
-    print (" EEEEEEEE         ZZZZZZZZ")
-    print (" E                     ZZ ")
-    print (" E                    ZZ  ")
-    print (" EEEEEEEE            ZZ   ")
-    print (" E                  ZZ    ")
-    print (" E                 ZZ     ")
-    print (" EEEEEEEE         ZZZZZZZZ")
+    print (" EEEEEEEEEE       ZZZZZZZZZZ")
+    print (" EE                       ZZ")
+    print (" EE                      ZZ ")
+    print (" EE                     ZZ  ")
+    print (" EEEEEEEEEE            ZZ   ")
+    print (" EE                   ZZ    ")
+    print (" EE                  ZZ     ")
+    print (" EE                 ZZ      ")
+    print (" EE          . .   ZZ       ")
+    print (" EEEEEEEEEE  . .  ZZZZZZZZZZ")
 
 
 main()
