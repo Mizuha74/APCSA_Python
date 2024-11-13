@@ -9,16 +9,16 @@
 
 
 def main ():
-    print (" EEEEEEEEEE       ZZZZZZZZZZ       XX      XX")
-    print (" EE                       ZZ        XX    XX ")
-    print (" EE                      ZZ          XX  XX  ")
-    print (" EE                     ZZ            XXXX   ")
-    print (" EEEEEEEEEE            ZZ              XX    ")
-    print (" EE                   ZZ               XX    ")
-    print (" EE                  ZZ               XXXX   ")
-    print (" EE                 ZZ               XX  XX  ")
-    print (" EE          . .   ZZ         . .   XX    XX ")
-    print (" EEEEEEEEEE  . .  ZZZZZZZZZZ  . .  XX      XX")
+    print (" EEEEEEEEEEEE       ZZZZZZZZZZZZ       XX        XX")
+    print (" EE                         ZZ          XX      XX ")
+    print (" EE                        ZZ            XX    XX  ")
+    print (" EE                       ZZ              XX  XX   ")
+    print (" EEEEEEEEEEEE            ZZ                XXXX    ")
+    print (" EE                     ZZ                 XXXX    ")
+    print (" EE                    ZZ                 XX  XX   ")
+    print (" EE                   ZZ                 XX    XX  ")
+    print (" EE            . .   ZZ           . .   XX      XX ")
+    print (" EEEEEEEEEEEE  . .  ZZZZZZZZZZZZ  . .  XX        XX")
 
 
 main()
